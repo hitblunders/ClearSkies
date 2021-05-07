@@ -4,6 +4,9 @@
 
 </div>
 
+![ClearSkies](https://socialify.git.ci/hitblunders/ClearSkies/image?description=1&descriptionEditable=A%20chrome%20extension%20for%20smooth%20web%20sailing&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Overlapping%20Hexagons&pulls=1&stargazers=1&theme=Dark)
+
+
 <p>&nbsp;</p>
 
 <div align="center">
